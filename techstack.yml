@@ -1,0 +1,18 @@
+repo_name: DotEspartoORGForPersonal/public
+report_id: 73894c453ef3a8c2eb174e7028ff9866
+repo_type: Public
+timestamp: '2023-11-08T11:01:49+00:00'
+requested_by: DotEsparto1
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
