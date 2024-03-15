@@ -1,7 +1,7 @@
 <!--
 &lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
-DotEspartoORGForPersonal/public is built on the following main stack:
+Bhautik-org/public is built on the following main stack:
 
 
 
@@ -11,7 +11,7 @@ Full tech stack [here](/techstack.md)
 
 &lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
-DotEspartoORGForPersonal/public is built on the following main stack:
+Bhautik-org/public is built on the following main stack:
 
 
 
@@ -22,9 +22,9 @@ Full tech stack [here](/techstack.md)
 <div align="center">
 
 # Tech Stack File
-![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/public](https://github.com/DotEspartoORGForPersonal/public)![](https://img.stackshare.io/public_badge.svg "public")
+![](https://img.stackshare.io/repo.svg "repo") [Bhautik-org/public](https://github.com/Bhautik-org/public)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|1<br/>Tools used|03/14/24 <br/>Report generated|
+|1<br/>Tools used|03/15/24 <br/>Report generated|
 |------|------|
 </div>
 
